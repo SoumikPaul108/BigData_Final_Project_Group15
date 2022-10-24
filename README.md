@@ -27,4 +27,4 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1
 4)  Research Objectives and Question(s) (what you are trying to describe or predict with the data)
 	
 Research objective is to predict, whether a customer will repay a loan or not. The dataset contains complete loan data for all loans issued from 2007-20011 including the current loan status and latest payment information. Target column for this dataset would be loan_status. The dataset consists of ~40000 rows, 21 features columns.
-![image](https://user-images.githubusercontent.com/115744170/197620401-f75b355b-dea4-4064-bd45-e0e624b3ddab.png)
+
