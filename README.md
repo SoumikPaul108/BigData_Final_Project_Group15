@@ -3,11 +3,11 @@
 1)Team
 a) Members
 
-Akshay Narkhede.
-Aakshi Soni.
-Saloni Avhad.
-Soumik Paul.
-Pasunooru santosh reddy.
+1.Akshay Narkhede,
+2.Aakshi Soni,
+3.Saloni Avhad.
+4.Soumik Paul,
+5.Pasunooru santosh reddy
 
 b)  Communication plan to include project artifact repository
 
